@@ -1,6 +1,6 @@
 <template>
 
-  <nav class="border-gray-200 bg-gray-50 dark:bg-gray-800 dark:border-gray-700 sticky top-0">
+  <nav class="border-gray-200 bg-gray-100 dark:bg-gray-800 dark:border-gray-700 sticky top-0">
     <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
       <a href="#" class="flex items-center space-x-3 rtl:space-x-reverse">
         <img width="48" height="48" src="https://img.icons8.com/doodle/48/soup-plate.png" alt="soup-plate"/>
