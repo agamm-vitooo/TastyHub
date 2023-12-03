@@ -6,7 +6,7 @@ import TabMenu from './components/TabMenu.vue';
 </script>
 
 <template>
-  <div id="app" class="bg-gray-100">
+  <div id="app" class="bg-gray-100 scroll-smooth">
     <NavbarPage></NavbarPage>
     <HeroPage></HeroPage>
     <TabMenu></TabMenu>
