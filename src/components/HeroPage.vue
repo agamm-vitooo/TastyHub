@@ -1,5 +1,5 @@
 <template>
-  <section id="hero-page" class="min-h-screen overflow-hidden bg-gray-50 sm:grid sm:grid-cols-2 sm:items-center">
+  <section id="hero-page" class="overflow-hidden bg-gray-50 sm:grid sm:grid-cols-2 sm:items-center">
     <div class="p-8 md:p-12 lg:px-16 lg:py-24">
       <div class="mx-auto max-w-xl text-left ltr:sm:text-left rtl:sm:text-right">
         <h2 class="text-2xl font-bold text-gray-900 md:text-3xl">
@@ -11,9 +11,12 @@
           tempus tellus etiam sed.
         </p>
 
-        <div class="mt-4 md:mt-8">
+        <div class="mt-4 md:mt-8 flex flex-wrap gap-5">
           <a href="#" class="inline-block rounded bg-emerald-600 px-12 py-3 text-sm font-medium text-white transition hover:bg-emerald-700 focus:outline-none focus:ring focus:ring-yellow-400">
             Pesan Sekarang
+          </a>
+          <a href="#" class="inline-block rounded bg-white px-12 py-3 text-sm font-medium text-gray-700 border-2 transition hover:bg-gray-100 focus:outline-none focus:ring focus:ring-yellow-400">
+            Tentang
           </a>
         </div>
       </div>

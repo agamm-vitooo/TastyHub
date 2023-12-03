@@ -1,9 +1,9 @@
 <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+import HeroPage from '../components/HeroPage.vue';
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <HeroPage></HeroPage>
   </main>
 </template>
