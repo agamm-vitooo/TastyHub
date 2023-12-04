@@ -105,12 +105,6 @@ export default {
               description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptas eligendi mollitia et, aperiam ex sunt cupiditate fugit reiciendis beatae nostrum exercitationem suscipit similique repellendus labore. Quas recusandae deleniti qui impedit.',
               price: 'Rp. 25.000,00',
             },
-            {
-              title: 'Card 1',
-              image: 'https://images.unsplash.com/photo-1569562211093-4ed0d0758f12?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA==',
-              description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptas eligendi mollitia et, aperiam ex sunt cupiditate fugit reiciendis beatae nostrum exercitationem suscipit similique repellendus labore. Quas recusandae deleniti qui impedit.',
-              price: 'Rp. 25.000,00',
-            },
             // Add more cards as needed
           ],
         },
@@ -131,7 +125,7 @@ export default {
             },
             {
               title: 'Card 1',
-              image: 'https://images.unsplash.com/photo-1572656631137-7935297eff55?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+              image: 'https://images.unsplash.com/photo-1569562211093-4ed0d0758f12?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA==',
               description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptas eligendi mollitia et, aperiam ex sunt cupiditate fugit reiciendis beatae nostrum exercitationem suscipit similique repellendus labore. Quas recusandae deleniti qui impedit.',
               price: 'Rp. 25.000,00',
             },

@@ -14,7 +14,7 @@ import TabMenu from './components/TabMenu.vue';
   </div>
 </template>
 
-<style scoped>
+<style>
  html,body{
   scroll-behavior: smooth;
  }
