@@ -1,7 +1,7 @@
 /* eslint-disable no-undef */
 import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
-import MakananView from '../views/MakananView.vue'
+import TabMenu from '../views/ProductView.vue';
 
 const router = createRouter({
     history: createWebHistory(
@@ -12,9 +12,9 @@ const router = createRouter({
             component: HomeView
         },
         {
-            path: '/makananview',
-            name: 'makananview',
-            component: MakananView
+            path: '/ProductView',
+            name: 'TabMenu',
+            component: TabMenu,
         },
         {
             path: '/about',

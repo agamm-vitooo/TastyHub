@@ -12,10 +12,10 @@
         </p>
 
         <div class="mt-4 md:mt-8 flex flex-wrap gap-5">
-          <a href="/TabMenu" class="rounded flex gap-2 items-center bg-emerald-600 px-12 py-3 text-sm font-medium text-white transition hover:bg-emerald-700 focus:outline-none focus:ring focus:ring-yellow-400">
+          <router-link to="/ProductView" class="rounded flex gap-2 items-center bg-emerald-600 px-12 py-3 text-sm font-medium text-white transition hover:bg-emerald-700 focus:outline-none focus:ring focus:ring-yellow-400">
             Pesan Sekarang
             <img width="25" height="25" src="https://img.icons8.com/windows/25/FFFFFF/bag-diagonal-view.png" alt="bag-diagonal-view"/>
-          </a>
+          </router-link>
           <a href="#" class="inline-block rounded bg-white px-12 py-3 text-sm font-medium text-gray-700 border-2 transition hover:bg-gray-100 focus:outline-none focus:ring focus:ring-yellow-400">
             Tentang
           </a>
