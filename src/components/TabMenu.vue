@@ -43,40 +43,40 @@ export default {
     return {
       tabs: [
         {
-          label: 'Betawi',
+          label: 'Makanan Betawi',
           cards: [
             {
               title: 'Card 1',
               image: 'https://images.unsplash.com/photo-1572656631137-7935297eff55?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
               description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptas eligendi mollitia et, aperiam ex sunt cupiditate fugit reiciendis beatae nostrum exercitationem suscipit similique repellendus labore. Quas recusandae deleniti qui impedit.',
-              price: 'Rp. 25.000,00',
+              price: 'Rp. 46.000,00',
             },
             {
-              title: 'Card 1',
+              title: 'Card 2',
               image: 'https://images.unsplash.com/photo-1526619971180-973e2a5045fb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA==',
               description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptas eligendi mollitia et, aperiam ex sunt cupiditate fugit reiciendis beatae nostrum exercitationem suscipit similique repellendus labore. Quas recusandae deleniti qui impedit.',
-              price: 'Rp. 25.000,00',
+              price: 'Rp. 39.000,00',
             },
             {
-              title: 'Card 1',
+              title: 'Card 3',
               image: 'https://images.unsplash.com/photo-1681378128359-a5c2492a3535?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA==',
               description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptas eligendi mollitia et, aperiam ex sunt cupiditate fugit reiciendis beatae nostrum exercitationem suscipit similique repellendus labore. Quas recusandae deleniti qui impedit.',
               price: 'Rp. 25.000,00',
             },
             {
-              title: 'Card 1',
+              title: 'Card 4',
               image: 'https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA==',
               description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptas eligendi mollitia et, aperiam ex sunt cupiditate fugit reiciendis beatae nostrum exercitationem suscipit similique repellendus labore. Quas recusandae deleniti qui impedit.',
               price: 'Rp. 25.000,00',
             },
             {
-              title: 'Card 1',
+              title: 'Card 5',
               image: 'https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA==',
               description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptas eligendi mollitia et, aperiam ex sunt cupiditate fugit reiciendis beatae nostrum exercitationem suscipit similique repellendus labore. Quas recusandae deleniti qui impedit.',
               price: 'Rp. 25.000,00',
             },
             {
-              title: 'Card 1',
+              title: 'Card 6',
               image: 'https://images.unsplash.com/photo-1490474418585-ba9bad8fd0ea?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA==',
               description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptas eligendi mollitia et, aperiam ex sunt cupiditate fugit reiciendis beatae nostrum exercitationem suscipit similique repellendus labore. Quas recusandae deleniti qui impedit.',
               price: 'Rp. 25.000,00',
@@ -85,7 +85,7 @@ export default {
           ],
         },
         {
-          label: 'Jawa',
+          label: 'Makanan Jawa',
           cards: [
             {
               title: 'Card 1',
@@ -109,7 +109,7 @@ export default {
           ],
         },
         {
-          label: 'Bali',
+          label: 'Makanan Bali',
           cards: [
             {
               title: 'Card 1',

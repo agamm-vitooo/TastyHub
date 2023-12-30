@@ -3,18 +3,17 @@
     <div class="p-8 md:p-12 lg:px-16 lg:py-24">
       <div class="mx-auto max-w-xl text-left ltr:sm:text-left rtl:sm:text-right">
         <h2 class="text-2xl font-bold text-gray-900 md:text-3xl">
-          Lorem, ipsum dolor sit 
+          Welcome 
         </h2>
 
-        <p class="text-gray-500 md:mt-4 md:block text-justify sm:text-left">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, egestas
-          tempus tellus etiam sed.
+        <p class="text-gray-500 text- md:mt-4 md:block text-justify sm:text-left">
+          Make your own taste
         </p>
 
         <div class="mt-4 md:mt-8 flex flex-wrap gap-5">
           <router-link to="/ProductView" class="rounded flex gap-2 items-center bg-emerald-600 px-12 py-3 text-sm font-medium text-white transition hover:bg-emerald-700 focus:outline-none focus:ring focus:ring-yellow-400">
             Pesan Sekarang
-            <img width="25" height="25" src="https://img.icons8.com/windows/25/FFFFFF/bag-diagonal-view.png" alt="bag-diagonal-view"/>
+            <img width="25" height="25" src="https://img.icons8.com/windows/25/FFFFFF/bag-diagonal-view.png" alt="bag-diagonal-view">
           </router-link>
           <a href="#" class="inline-block rounded bg-white px-12 py-3 text-sm font-medium text-gray-700 border-2 transition hover:bg-gray-100 focus:outline-none focus:ring focus:ring-yellow-400">
             Tentang
